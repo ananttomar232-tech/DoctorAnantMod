@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "dranant:clinic_summoner_1",
+    "dranant:clinic_summoner_2",
+    "dranant:clinic_summoner_3",
+    "dranant:clinic_summoner_4",
+    "dranant:clinic_summoner_5",
+    "dranant:clinic_summoner_6",
+    "dranant:clinic_summoner_7",
+    "dranant:clinic_summoner_8",
+    "dranant:clinic_summoner_9",
+    "dranant:clinic_summoner_10",
+    "dranant:central_shop_spawner",
+    "dranant:item_display_pedestal",
+    "dranant:diamond_cash_register"
+  ]
+}
